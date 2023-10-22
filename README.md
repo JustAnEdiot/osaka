@@ -38,10 +38,5 @@
       AA  A A                        A   AAA         AA
      AA     A          AA            AA AAAA          AA
     AA      A          AA            AAAA AAA          AAA
-   AA       A          AA            AAAAA AAA            A
-  AA      AAA         A A        AAAAAAA AAAAAAAA   AAAAA  AA
-AAA      AAA          AAA        A     AAAA      AAA      A AA
-A   AA   AAA          A A      AAAAAA      AAAA              A
-      AAAA A         AA A      A    AAA      A A             AA
-        AA A         A AA       AAA     AA    A A            AA
+
 # oh my gah
